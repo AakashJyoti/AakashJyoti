@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash jyoti</h1>
 <h3 align="center">A passionate website developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js and React native**
+- 🌱 I’m currently learning **Backend Context Api Generation**
 - 📫 How to reach me Gmail:- **akjyoti572@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
