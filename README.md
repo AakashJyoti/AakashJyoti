@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakash jyoti</h1>
 <h3 align="center">A passionate website developer from India</h3>
 
+<!-- ![](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg) -->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-jyoti-60626221b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17707276) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aakashjyoti1) 
 
