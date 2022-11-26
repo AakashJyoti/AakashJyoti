@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash jyoti</h1>
-<h3 align="center">A passionate website developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <!-- ![](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg) -->
 
