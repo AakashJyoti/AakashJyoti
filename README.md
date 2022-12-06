@@ -32,6 +32,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)</div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
