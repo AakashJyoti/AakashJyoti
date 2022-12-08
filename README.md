@@ -32,6 +32,10 @@
 
 
 # 📊 GitHub Stats:
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Aakashjyoti&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=radical&layout=compact" />
+</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
