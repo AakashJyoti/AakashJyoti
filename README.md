@@ -31,5 +31,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aakashjyoti&count_private=true&theme=tokyonight&showicons=true)]() -->
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&langs_count=5&theme=tokyonight)]() -->
+
 
