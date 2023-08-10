@@ -29,9 +29,9 @@
 <!--  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) -->
 
 
-<!-- # 📊 GitHub Stats:
+ # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashjyoti&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashjyoti&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 
