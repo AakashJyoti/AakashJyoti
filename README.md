@@ -94,8 +94,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <!-- <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
@@ -122,7 +122,7 @@
 
 ###
 
-<div align="center">
+<div align="center" >
   <img src="https://streak-stats.demolab.com?user=AakashJyoti&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashJyoti&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
@@ -131,6 +131,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AakashJyoti/AakashJyoti/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/AakashJyoti/AakashJyoti/output/snake.svg" alt="Snake animation" />
 
 ###
