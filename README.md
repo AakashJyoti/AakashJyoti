@@ -41,10 +41,10 @@
 <div align="center">
   <!-- <img height="300" src="https://media.giphy.com/media/V8gD32995YGsaCkDBZ/giphy.gif"  /> -->
    
-  <img height="150" src="https://media.giphy.com/media/X8WXNdX1neJXhwJc4W/giphy.gif"  />
-  <img height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  />
+  <img height="120" src="https://media.giphy.com/media/X8WXNdX1neJXhwJc4W/giphy.gif"  />
+  <img height="120" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  />
   <!-- <img height="150" src="https://media.giphy.com/media/VfCXPf4jFBJdbI99W0/giphy.gif"  /> -->
-  <img height="150" src="https://media.giphy.com/media/pd0HQOQN71YHtkXSu3/giphy.gif"  />
+  <img height="120" src="https://media.giphy.com/media/pd0HQOQN71YHtkXSu3/giphy.gif"  />
 </div>
 
 
