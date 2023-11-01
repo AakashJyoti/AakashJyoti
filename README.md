@@ -39,8 +39,16 @@
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&langs_count=5&theme=tokyonight)]() -->
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <!-- <img height="300" src="https://media.giphy.com/media/V8gD32995YGsaCkDBZ/giphy.gif"  /> -->
+   
+  <img height="150" src="https://media.giphy.com/media/X8WXNdX1neJXhwJc4W/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  />
+  <!-- <img height="150" src="https://media.giphy.com/media/VfCXPf4jFBJdbI99W0/giphy.gif"  /> -->
+  <img height="150" src="https://media.giphy.com/media/pd0HQOQN71YHtkXSu3/giphy.gif"  />
 </div>
+
+
+
 
 ###
 
@@ -58,6 +66,10 @@
 
 ###
 
+
+<!-- <div align="right"> -->
+<!-- </div> -->
+
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AakashJyoti.AakashJyoti&"  /> -->
 
 ###
@@ -66,6 +78,7 @@
 
 ###
 
+  <img align="right" height="150" src="https://media.giphy.com/media/bF7hth8Z0NhffWcrvL/giphy.gif"  />
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
