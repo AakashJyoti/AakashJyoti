@@ -34,7 +34,7 @@
 ###
 
 
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AakashJyoti.AakashJyoti&"  /> -->
+
 
 ###
 
@@ -94,6 +94,7 @@
 
 ###
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AakashJyoti.AakashJyoti&"  />
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
