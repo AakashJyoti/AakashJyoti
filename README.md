@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Aakash jyoti</h1>
+<h1 align="center">Hi 👋, I'm Aakash Jyoti</h1>
 
 ###
 
