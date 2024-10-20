@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate Developer from India<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Pyhton.<br>- ⚡ In my free time I play chess and binge-watching tech news.</h4>
+<h4 align="left">I'm a passionate Developer from India<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I play chess and binge-watching tech news.</h4>
 
 ###
 
