@@ -1,9 +1,7 @@
-
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashjyoti&theme=react&hide_border=true)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashjyoti&theme=dark&background=000000)](https://git.io/streak-stats) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aakashjyoti&count_private=true&theme=tokyonight&showicons=true)]() -->
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashjyoti&langs_count=5&theme=tokyonight)]() -->
@@ -13,9 +11,6 @@
   <img height="120" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  />
   <img height="120" src="https://media.giphy.com/media/pd0HQOQN71YHtkXSu3/giphy.gif"  />
 </div>
-
-
-
 
 ###
 
@@ -32,9 +27,6 @@
 </div>
 
 ###
-
-
-
 
 ###
 
@@ -108,4 +100,4 @@
 
 <br clear="both">
 
-
+![GitHub Snake dark](https://github.com/AakashJyoti/AakashJyoti/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
