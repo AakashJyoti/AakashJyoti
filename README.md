@@ -60,28 +60,28 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  /> -->
   <!-- <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  /> -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  /> -->
 </div>
 
 ###
