@@ -59,9 +59,10 @@ I'm a Full Stack Developer from India focused on high-performance backend system
 ---
 
 ### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://github.com/AakashJyoti/AakashJyoti/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AakashJyoti/AakashJyoti/raw/output/snake-dark.svg">
+  <img src="https://github.com/AakashJyoti/AakashJyoti/raw/output/snake-dark.svg" alt="Snake Animation">
+</picture>
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AakashJyoti.AakashJyoti" />
