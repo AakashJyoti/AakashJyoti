@@ -18,7 +18,7 @@ I'm a Full Stack Developer from India focused on high-performance backend system
 
 ---
 
-### 🛠 Tech Stack (Unified SimpleIcons)
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" width="40" />
